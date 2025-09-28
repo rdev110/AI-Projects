@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Browser_automation
+https://www.browserless.io/blog/browser-automation
+https://www.selenium.dev/documentation/webdriver/
