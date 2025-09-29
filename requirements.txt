@@ -4,3 +4,4 @@ ipykernel
 langchain_community
 crawl4ai
 pathlib
+dotenv
